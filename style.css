@@ -82,6 +82,8 @@ li, a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 900px;
+    margin-left: 325px;
 }
 
 .img-holder {
