@@ -6,7 +6,7 @@ A model was given to follow with a photo of the design and a template for colors
 
 ## Reference Images
 
-![Reference1](![image](https://user-images.githubusercontent.com/101748581/188008511-8cac05fe-7086-4b54-8642-1bd8001a433a.png))
+![Reference1](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
 
 ![Reference2](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/colors_and_stuff.png)
 
